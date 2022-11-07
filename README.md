@@ -11,6 +11,8 @@ This repository keeps record of Deep Learning Course (ID: 521153S-3003) from Uni
 
 - Linear regression, loss function, gradient descent, regularization
 
+![step](img/step.jpg)
+
 - Linear Classification 
 
   -Examples: Pedestrian detection, Email spam detection, Tumor detection, Object classification
