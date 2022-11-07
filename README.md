@@ -13,10 +13,4 @@ This repository keeps record of Deep Learning Course (ID: 521153S-3003) from Uni
 
 - Linear Classification: 
 
-  -Pedestrian detection (pedestrian/no pedestrian?)
-    
-  -Email spam detection (spam /not spam?)
-    
-  -Tumor detection (malignant/benign?)
-    
-  -Object classification
+  -Application examples: Pedestrian detection, Email spam detection, Tumor detection, Object classification
