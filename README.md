@@ -10,3 +10,4 @@ This repository keeps record of the assignments of Deep Learning Course (ID: 521
 ## Assignments
 
 - exercise 1 - deep learning basics: Linear regression, loss function, gradient descent
+  - classification cases: pedestrian detection (pedestrian/no pedestrian?), email spam detection (spam /not spam?), tumor detection (malignant/benign?)
