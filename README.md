@@ -11,7 +11,7 @@ This repository keeps record of Deep Learning Course (ID: 521153S-3003) from Uni
 
 - Linear regression, loss function, gradient descent, regularization
 
-![pic](img/pic.jpg)
+![step](img/step.jpg)
 
 - Linear Classification 
 
