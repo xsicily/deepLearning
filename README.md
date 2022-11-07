@@ -43,11 +43,11 @@ Problem setting: given the training set, how to train a model to predict the out
 - **Step 3: Pick the best functions**
   - Minimize the cost (Gradient descent)
   
-  $${dL \over dw} = \frac{1}{N} \sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i))(-x ^ i) = 0 \implies w = {N \sum x ^ i y ^ i - \sum x ^ i \sum y ^ i \over N \sum x ^ i x ^ i - \sum x ^ i \sum x ^ i}$$
+$${dL \over dw} = \frac{1}{N} \sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i))(-x ^ i) = 0 \implies w = {N \sum x ^ i y ^ i - \sum x ^ i \sum y ^ i \over N \sum x ^ i x ^ i - \sum x ^ i \sum x ^ i}$$
 
 $${dL \over db} = \frac{1}{N} \sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i))(-1) = 0 \implies b = {\sum x ^ i x ^ i \sum y ^ i - \sum x ^ i y ^ i \sum x ^ i \over N \sum x ^ i x ^ i - \sum x ^ i \sum x ^ i}$$
 
-**Model selection:**
+Model selection:
 
 <p align="center">
 <img src="img/model.jpg" width="400">
