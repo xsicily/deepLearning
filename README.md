@@ -11,6 +11,6 @@ This repository keeps record of Deep Learning Course (ID: 521153S-3003) from Uni
 
 - Deep learning basics: Linear regression, loss function, gradient descent, regularization
 
-- Linear Classification: 
+- Deep learning basics: Linear Classification 
 
   -Application examples: Pedestrian detection, Email spam detection, Tumor detection, Object classification
