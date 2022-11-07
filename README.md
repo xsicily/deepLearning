@@ -7,7 +7,13 @@ This repository keeps record of the assignments of Deep Learning Course (ID: 521
 - Python 3.8
 - Pytorch 1.10
 
-## Assignments
+## Content
 
-- exercise 1 - deep learning basics: Linear regression, loss function, gradient descent
-  - classification cases: pedestrian detection (pedestrian/no pedestrian?), email spam detection (spam /not spam?), tumor detection (malignant/benign?)
+- Assignment 1 - deep learning basics: Linear regression, loss function, gradient descent
+  - classification cases: 
+  
+    -pedestrian detection (pedestrian/no pedestrian?)
+    
+    -email spam detection (spam /not spam?)
+    
+    -tumor detection (malignant/benign?)
