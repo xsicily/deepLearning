@@ -13,7 +13,9 @@ This repository keeps record of Deep Learning Course (ID: 521153S-3003) from Uni
 
 Problem setting: given the training set, how to train a model to predict the output of a new value of the input from the testing set?
 
+<p align="center">
 <img src="img/pic.jpg" width="400">
+</p>
 
 #### The solutions:
 
@@ -32,10 +34,13 @@ Problem setting: given the training set, how to train a model to predict the out
 
 - **Step 2: Goodness of the functions**
   - Loss/cost function
-
+  
+<p align="center">
+<img src="img/loss.jpg" width="300">
+</p>
     $$L(f) = L(w,b) = \frac{1}{2N} \sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i)) ^ 2$$
     
-<img src="img/loss.jpg" width="400">
+      
 
     
 - **Step 3: Pick the best functions**
