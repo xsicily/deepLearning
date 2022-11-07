@@ -17,7 +17,7 @@ Problem setting: given the training set, how to train a model to predict the out
 
 #### The solutions:
 
-- Step 1: define a set of functions
+- **Step 1: define a set of functions**
   - Linear hypothesis:
   
       $$y = b + w_1 * x_1 + w_2 * x_2 + w_3 * x_3 + ... + w_n * x_n$$
@@ -30,12 +30,12 @@ Problem setting: given the training set, how to train a model to predict the out
      
      $$\hat{y} = f(x) = b +  w ^ T x$$
 
-- Step 2: Goodness of the functions
+- **Step 2: Goodness of the functions**
   - Loss/cost function
 
     $$L(f) = L(w,b) = \frac{1}{2N} \sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i)) ^ 2$$
     
-- Step 3: Pick the best functions
+- **Step 3: Pick the best functions**
   - Minimize the cost (Gradient descent)
 
 ### 2. Linear Classification 
