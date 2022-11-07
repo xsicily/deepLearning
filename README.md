@@ -1,6 +1,6 @@
 # Deep Learning
 
-This repository keeps record of the assignments of Deep Learning Course (ID: 521153S-3003) from University of Oulu, Finland.
+This repository keeps record of Deep Learning Course (ID: 521153S-3003) from University of Oulu, Finland.
 
 ## Packages
 
@@ -9,13 +9,14 @@ This repository keeps record of the assignments of Deep Learning Course (ID: 521
 
 ## Content
 
-- Assignment 1 - deep learning basics: Linear regression, loss function, gradient descent
-  - Classification cases: 
-  
-    -Pedestrian detection (pedestrian/no pedestrian?)
+- Deep learning basics: Linear regression, loss function, gradient descent, regularization
+
+- Linear Classification: 
+
+  -Pedestrian detection (pedestrian/no pedestrian?)
     
-    -Email spam detection (spam /not spam?)
+  -Email spam detection (spam /not spam?)
     
-    -Tumor detection (malignant/benign?)
+  -Tumor detection (malignant/benign?)
     
-    -Object classification
+  -Object classification
