@@ -9,4 +9,4 @@ This repository keeps record of the assignments of Deep Learning Course (ID: 521
 
 ## Assignments
 
-- exercise 1: Linear regression, loss function, gradient descent
+- exercise 1 - deep learning basics: Linear regression, loss function, gradient descent
