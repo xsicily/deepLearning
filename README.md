@@ -7,6 +7,6 @@ This repository keeps record of the assignments of Deep Learning Course (ID: 521
 - Python 3.8
 - Pytorch 1.10
 
-## Content
+## Assignment
 
-- Linear regression
+- regression: Linear regression, loss function, gradient descent
