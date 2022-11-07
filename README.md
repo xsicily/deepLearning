@@ -22,9 +22,9 @@ Problem setting: given the training set, how to train a model to predict the out
   
       $$y = b + w_1 * x_1 + w_2 * x_2 + w_3 * x_3 + ... + w_n * x_n$$
       
-      - $w_1$, ..., $w_n$ are known as weights (can be any values)
+       - $w_1$, ..., $w_n$ are known as weights (can be any values)
       
-      - $b$ is known as bias term (can be any value)
+       - $b$ is known as bias term (can be any value)
       
      In short, the hypothesis can be written as:  
      
@@ -33,7 +33,7 @@ Problem setting: given the training set, how to train a model to predict the out
 - Step 2: Goodness of the functions
   - Loss/cost function
 
-    $$L(f) = L(w,b) = \frac{1}{2 * N} \sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i)) ^ 2$$
+    $$L(f) = L(w,b) = \frac{1}{2N} \sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i)) ^ 2$$
     
 - Step 3: Pick the best functions
   - Minimize the cost (Gradient descent)
