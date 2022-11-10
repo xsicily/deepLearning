@@ -47,11 +47,13 @@ $${dL \over dw} = \frac{1}{N} \sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i))(-x ^ 
 
 $${dL \over db} = \frac{1}{N} \sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i))(-1) = 0 \implies b = {\sum x ^ i x ^ i \sum y ^ i - \sum x ^ i y ^ i \sum x ^ i \over N \sum x ^ i x ^ i - \sum x ^ i \sum x ^ i}$$
 
-Model selection:
+Model selection: 
 
 <p align="center">
 <img src="img/model.jpg" width="400">
 </p>
+
+To avoid overfitting \implies regularization
 
 ### 2. Linear Classification 
 
