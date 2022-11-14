@@ -53,7 +53,7 @@ Model selection:
 <img src="img/model.jpg" width="400">
 </p>
 
-To avoid overfitting $\implies$ introduce **Regularization** into loss function (back to step 2)
+Model should be "simple" so that works on test data. To avoid overfitting $\implies$ introduce **Regularization** into loss function (back to step 2)
 
 $$L(f) = L(w,b) = \frac{1}{2N} (\sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i)) ^ 2 + \sum_{i = 1}^{N} w ^ 2) $$
 
