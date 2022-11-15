@@ -62,8 +62,11 @@ $$L(f) = L(w,b) = \frac{1}{2N} (\sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i)) ^ 2
 ### 2. Linear Classification 
 
 Examples: Pedestrian detection, Email spam detection, Tumor detection, Object classification
-  
-- Softmax Classifer (Multinomial logistic regression): The softmax activation function transforms the raw outputs of the neural network into a vector of probabilities, essentially a probability distribution over the input classes.
+
+- Sigmoid $\implies$ binary classification methods where we only have 2 classes
+
+- Softmax Classifer (Multinomial logistic regression) $\implies$ multiclass problems
+  - The softmax activation function transforms the raw outputs of the neural network into a vector of probabilities, essentially a probability distribution over the input classes.
 
 ### 3. Neural Networks
 
