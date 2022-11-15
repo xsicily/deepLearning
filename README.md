@@ -63,4 +63,18 @@ $$L(f) = L(w,b) = \frac{1}{2N} (\sum_{i = 1}^{N} (y ^ i - (b + w ^ T x ^ i)) ^ 2
 
 Examples: Pedestrian detection, Email spam detection, Tumor detection, Object classification
   
-- Softmax Classifer (Multinomial logistic regression)
+- Softmax Classifer (Multinomial logistic regression): The softmax activation function transforms the raw outputs of the neural network into a vector of probabilities, essentially a probability distribution over the input classes.
+
+### 3. Neural Networks
+
+- Neural Networks
+- Multilayer Neural Networks
+- Backpropogation
+  - recursive application of the chain rule along a computational graph to compute the gradients of all inputs, parameters, and intermediates.
+  - Forward: compute result of an operation and save any intermediates needed for gradient computation in memory
+  - Backward: apply the chain rule to compute the gradient of the loss function with respect to the inputs
+
+### 4. Convolutional Neural Network (CNN)
+
+
+
